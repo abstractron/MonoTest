@@ -1,0 +1,9 @@
+C:\csvn\!svnwork\abstractron\monotest.win8\MonoTestContent\MonoTestContent\MonoTestContent\bin\x86\Release\Content\GameThumbnail.xnb
+C:\csvn\!svnwork\abstractron\monotest.win8\MonoTestContent\MonoTestContent\MonoTestContent\bin\x86\Release\Content\laser1.xnb
+C:\csvn\!svnwork\abstractron\monotest.win8\MonoTestContent\MonoTestContent\MonoTestContent\bin\x86\Release\MonoTestContent.exe
+C:\csvn\!svnwork\abstractron\monotest.win8\MonoTestContent\MonoTestContent\MonoTestContent\bin\x86\Release\MonoTestContent.pdb
+C:\csvn\!svnwork\abstractron\monotest.win8\MonoTestContent\MonoTestContent\MonoTestContent\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\csvn\!svnwork\abstractron\monotest.win8\MonoTestContent\MonoTestContent\MonoTestContent\obj\x86\Release\MonoTestContent.exe
+C:\csvn\!svnwork\abstractron\monotest.win8\MonoTestContent\MonoTestContent\MonoTestContent\obj\x86\Release\MonoTestContent.pdb
+C:\csvn\!svnwork\abstractron\monotest.win8\MonoTestContent\MonoTestContent\MonoTestContent\bin\x86\Release\Content\defaultbg.xnb
+C:\csvn\!svnwork\abstractron\monotest.win8\MonoTestContent\MonoTestContent\MonoTestContent\obj\x86\Release\MonoTestContent.csprojResolveAssemblyReference.cache
